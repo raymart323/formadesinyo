@@ -111,13 +111,13 @@
         "collection-0": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "apparel"
           }
         },
         "product": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "black-t-shirt",
             "second_image": false
           }
         },
@@ -134,7 +134,7 @@
         "collection-1"
       ],
       "settings": {
-        "heading": "Multimedia collage",
+        "heading": "Lee-Min Ho Apparel",
         "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "collage",
